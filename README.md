@@ -3,7 +3,7 @@
 # Linux Upskill Challenge
 
 Данный репозиторий — мой учебный журнал по курсу  
-**Linux Upskill Challenge** и практики **OverTheWire Bandit**.
+**Linux Upskill Challenge**,"Real Linux Practice" и практики **OverTheWire Bandit**.
 
 ## Цель
 Стать Junior Linux System Administrator с дальнейшим переходом в DevOps / SRE.
